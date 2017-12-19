@@ -8,7 +8,7 @@ pipeline
 		{
 			steps
 			{
-				echo 'Hello comSpark!'
+				echo 'Hello CodeMash!'
 			}
 		}
 	}
