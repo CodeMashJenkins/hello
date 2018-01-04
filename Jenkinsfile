@@ -8,7 +8,7 @@ pipeline
 		{
 			steps
 			{
-				echo 'Hello CodeMash!'
+				echo 'Hello CodeMash 2018!'
 			}
 		}
 	}
